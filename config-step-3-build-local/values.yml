@@ -2,5 +2,5 @@
 ---
 svc_port: 80
 app_port: 80
-hello_msg: stranger
-USER_ID: <put_your_USER_ID_here>
+hello_msg: Milan
+USER_ID: mduser011
